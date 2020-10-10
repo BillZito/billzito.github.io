@@ -4,7 +4,7 @@
  <title>Bill Zito</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-10T16:55:45-07:00</updated>
+ <updated>2020-10-10T16:59:02-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -19,7 +19,11 @@
    <id>http://localhost:4000/2020/10/10/napkin-thoughts</id>
    <content type="html">&lt;h2 id=&quot;why-napkin-thoughts&quot;&gt;Why napkin thoughts&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;../pics/IMG_4863&quot; alt=&quot;why napkin thoughts&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/IMG_4863.jpg&quot; alt=&quot;why napkin thoughts&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Want to discuss high-value ideas, but don’t want to spend time to polish them.&lt;/li&gt;
+&lt;/ol&gt;
 </content>
  </entry>
  
