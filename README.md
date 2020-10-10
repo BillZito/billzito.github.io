@@ -1,25 +1,11 @@
-# Sidey
+# About
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Bill Zito is a human.
 
 ### Features
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
-
-### Screenshot
-
-![Screenshot](screenshot.png)
+- I taught my family's dog how to sing to the piano in a few hours. He signs a 5f#.
+- I've juggled a soccer ball in over 30 states.
+- I like [books](https://www.goodreads.com/review/list/107138592-bill-zito?order=d&ref=nav_mybooks&shelf=read&sort=rating)
+- I like people.
+- I like getting things done.
