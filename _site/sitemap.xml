@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/about</loc>
-<lastmod>2020-10-10T17:37:19-07:00</lastmod>
+<loc>http://localhost:4000/about</loc>
+<lastmod>2020-10-10T18:02:32-07:00</lastmod>
 </url>
 <url>
-<loc>/search</loc>
-<lastmod>2020-10-10T17:37:19-07:00</lastmod>
+<loc>http://localhost:4000/search</loc>
+<lastmod>2020-10-10T18:02:32-07:00</lastmod>
 </url>
 <url>
-<loc>/2020/10/10/why-napkin-thoughts</loc>
+<loc>http://localhost:4000/2020/10/10/why-napkin-thoughts</loc>
 <lastmod>2020-10-10T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>/maybe_useful/old_directions/</loc>
+<loc>http://localhost:4000/maybe_useful/old_directions/</loc>
 </url>
 </urlset>

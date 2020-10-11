@@ -1,6 +1,4 @@
-![why napkin thoughts](/assets/IMG_4863.jpg)
-
-<img src="/assets/IMG_4863.jpg" alt="">
+![why napkin thoughts](https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4863.JPG?raw=true)
 
 - Want to discuss high-value ideas, but don't want to spend time to polish them.
 - By getting faster feedback on core ideas, I can improve them faster / choose which to make better.
