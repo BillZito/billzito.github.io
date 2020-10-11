@@ -13,12 +13,12 @@
 "items": [
     
         {
-            "id": "http://localhost:4000/2020/10/10/napkin-thoughts",
-            "title": "Napkin Thoughts",
+            "id": "http://localhost:4000/2020/10/10/why-napkin-thoughts",
+            "title": "Why Napkin Thoughts",
             "summary": null,
-            "content_text": "Why napkin thoughts  Want to discuss high-value ideas, but don’t want to spend time to polish them.",
-            "content_html": "<h2 id=\"why-napkin-thoughts\">Why napkin thoughts</h2><p><img src=\"/assets/IMG_4863.jpg\" alt=\"why napkin thoughts\" /></p><ol>  <li>Want to discuss high-value ideas, but don’t want to spend time to polish them.</li></ol>",
-            "url": "http://localhost:4000/2020/10/10/napkin-thoughts",
+            "content_text": "  Want to discuss high-value ideas, but don’t want to spend time to polish them.",
+            "content_html": "<p><img src=\"/assets/IMG_4863.jpg\" alt=\"why napkin thoughts\" /></p><ol>  <li>Want to discuss high-value ideas, but don’t want to spend time to polish them.</li></ol>",
+            "url": "http://localhost:4000/2020/10/10/why-napkin-thoughts",
             
             
             
