@@ -4,7 +4,7 @@
  <title>Bill Zito</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-10T18:02:32-07:00</updated>
+ <updated>2020-10-10T20:37:43-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,16 +13,76 @@
 
  
  <entry>
-   <title>Why Napkin Thoughts</title>
-   <link href="http://localhost:4000/2020/10/10/why-napkin-thoughts"/>
+   <title>Deep Work Vs Entertainment</title>
+   <link href="http://localhost:4000/2020/10/10/deep-work-vs-entertainment"/>
    <updated>2020-10-10T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/10/10/why-napkin-thoughts</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4863.JPG?raw=true&quot; alt=&quot;why napkin thoughts&quot; /&gt;&lt;/p&gt;
+   <id>http://localhost:4000/2020/10/10/deep-work-vs-entertainment</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4847.jpg?raw=true&quot; alt=&quot;value&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Want to discuss high-value ideas, but don’t want to spend time to polish them.&lt;/li&gt;
-  &lt;li&gt;By getting faster feedback on core ideas, I can improve them faster / choose which to make better.&lt;/li&gt;
-  &lt;li&gt;Seems useful to spend more time building models vs. passively consuming content.&lt;/li&gt;
+  &lt;li&gt;Info gain (new ideas * value/hour) on y axis, easiness (number hours without needing a break, a proxy for effort needed) on x axis.&lt;/li&gt;
+  &lt;li&gt;Shapes aren’t correct (e.g. covariance).&lt;/li&gt;
+  &lt;li&gt;I’ve frequently made efforts to cut news and sports highlights out of my life as they’ve felt low value per time. I had never quantified it before though – it was useful to think about how much better a good book or conversation was. This also helped me realize that sometimes I’m trying to use a poor substitue for news/sports scores – oftentimes I want a very low-effort, small commitment break, and something like a book is too long a commitment. See &lt;a href=&quot;https://www.billzito.com/2020/10/10/addicting-things&quot;&gt;addicting things&lt;/a&gt; for what I think are better substitutes.&lt;/li&gt;
+  &lt;li&gt;It feels like almost everyone, even people who feel similarly to me, and definitely including me, spend too much time in the entertainment bucket relative to its value. Part of this is that those things have been optimized for being addicting (see above link for more).&lt;/li&gt;
+  &lt;li&gt;I was also surprised by how much more valuable I thought high quality deep work was vs. reading a good book / having a great conversation. This made me think that I should try harder to protect deep work time, and read at night when I have less willpower but don’t need as much.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4848.jpg?raw=true&quot; alt=&quot;multipliers&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Effort” isn’t one thing / should be broken into many things.&lt;/li&gt;
+  &lt;li&gt;Interesting how much worse I feel at 4h of sleep vs. 6h. I perceive myself to be ~2x worse at info gain and to need ~2x more effort.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Addicting Things</title>
+   <link href="http://localhost:4000/2020/10/10/addicting-things"/>
+   <updated>2020-10-10T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/10/10/addicting-things</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4866.JPG?raw=true&quot; alt=&quot;addictingness&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I think people vary a good amount for all these things.&lt;/li&gt;
+  &lt;li&gt;I didn’t have a great measure for addictingness. Another option I thought about was (# of times I would do the thing vs. # I wanted ot do).&lt;/li&gt;
+  &lt;li&gt;A lot of the badness for me of addicting things is that they make me feel like I’m not in control of my actions. I hate feeling like I can’t choose to eat less if I don’t want to.&lt;/li&gt;
+  &lt;li&gt;I think facebook/twitter are slightly more addicting and slightly worse than news/sports scores.&lt;/li&gt;
+  &lt;li&gt;I’ve never done cocaine, but my average estimate for it was -2 on the life satisfaction score, while my average for dessert was about -0.5. So for me, dessert addiction feels roughly 0.1x - 0.5x as bad. I like my new framing of “deca-cocaines” for me to quantify just how addicting these things are (e.g. 0.1x-0.5x is 1-5 deca-cocaines).&lt;/li&gt;
+  &lt;li&gt;My dad used to work for a candy company, and they’d optimize their recipe by bringing in people, giving them free giant bowls of candy, and seeing which recipes led to people eating the most. I think people underestimate how aggressively companies have optimized on making things as addicting as possible (food, facebook, etc.).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;substitutes-for-newssports-scores&quot;&gt;Substitutes for news/sports scores:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;eat, drink&lt;/li&gt;
+  &lt;li&gt;walk, juggle a soccer ball&lt;/li&gt;
+  &lt;li&gt;text a friend&lt;/li&gt;
+  &lt;li&gt;read better blog posts
+x book/podcast (too long a commitment / effortful)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4869.JPG?raw=true&quot; alt=&quot;habits&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Number of times thinking about a thing also strongly correlates with number of times I do the thing.&lt;/li&gt;
+  &lt;li&gt;For me, if I have a policy of only doing something rarely (never - once/month), I basically never think about doing it. But as soon as I get up to once/week, and especially at once/day or above, the number of times I think about it starts increasingly rapidly.&lt;/li&gt;
+  &lt;li&gt;I’ve experimented the most with this with dessert. At once/day - 3 times/day, it won’t feel bad for days - months, but then one day I’ll be stressed or tired and binge and feel bad about myself. I did a couple years where I only ate dessert roughly once/year, and have been doing roughly once/month for the last year, and found that I don’t binge at all like that. People ask me “how do you have so much willpower to eat dessert so rarely!?” I say: what!? If I had willpower I’d eat it 3 times a day – it’s specifically because of my lack of willpower that the policy “roughly once a month” works wonders for me.&lt;/li&gt;
+  &lt;li&gt;I know of a handful of other people that have experiemnted with similar things and found the “rarely” option liberating, but again I expect there to be large individual variation.&lt;/li&gt;
+  &lt;li&gt;I think the body positivity movement does at least one very good thing and one questionable thing. The very good thing is that for people who feel bad about food, it helps them feel less bad about it. The questionable thing is that I feel pretty confident that for me, the “leave dessert in your house and don’t feel bad eating it every day!” thing would be counterproductive because it would lead to me thnking about dessert and binging on it much more frequently. And again, I expect this to differ by person, and am not judging you if you feel differently. Some people want to eat more, some people want to eat less, and lots of people want to find ways to think about eating less.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Can Your Cousin Be Your Grandparent</title>
+   <link href="http://localhost:4000/2020/10/09/can-your-cousin-be-your-grandparent"/>
+   <updated>2020-10-09T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/10/09/can-your-cousin-be-your-grandparent</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4832.JPG?raw=true&quot; alt=&quot;graph&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You’re G, D is your cousin on your dad’s side and grandpa on mom’s side. A is dad, sibs with B. B and C have D together, making D your cousin. D has F with E, who in turn has a child with A, making you.&lt;/li&gt;
+  &lt;li&gt;In West Virginia, it’s legal to marry your second-cousin, who shares ~1/32nd of your genes. Assuming it’s the gene percent that matters, I think it’d be legal in West Virginia for A and F to marry if we added two more generations between D and F (I’m not showing my work, sry). D would be your great great grandparent and cousin.&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>

@@ -7,6 +7,14 @@
 - I've never done cocaine, but my average estimate for it was -2 on the life satisfaction score, while my average for dessert was about -0.5. So for me, dessert addiction feels roughly 1 - 5 deca-cocaines worth of badness (i.e. 1/10th - 1/2 as bad).
 - My dad used to work for a candy company, and they'd optimize their recipe by bringing in people, giving them free giant bowls of candy, and seeing which recipes led to people eating the most. I think people underestimate how aggressively companies have optimized on making things as addicting as possible (food, facebook, etc.). I like my new framing of "deca-cocaines" for me to quantify just how addicting these things are.
 
+Substitutes for news/sports scores:
+- eat, drink
+- walk, juggle a soccer ball
+- text a friend
+- read better blog posts
+x book/podcast (too long a commitment / effortful)
+
+
 ![habits](https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4869.JPG?raw=true)
 
 - num times thinking about also strongly correlates with # of times I do the thing.

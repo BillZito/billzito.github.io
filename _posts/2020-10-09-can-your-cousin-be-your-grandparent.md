@@ -1,4 +1,4 @@
 ![graph](https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4832.JPG?raw=true)
 
-- You’re g, d is your cousin on your dads side and grandpa on moms side. A is dad, sibs with b. B and c have d together, making d your cousin. D has f with e, who in turn has a child with a, making you. D is your cousin and your grandparent.
-- In West Virginia it's legal to marry your second-cousin, who shares ~1/32 of your genes. Assuming it's the gene percent that matters, I think it’d be legal in West Virginia if we added two more generations between D and F, making A and F the equivalent of second cousins. D would be your great great grandparent and cousin.
+- You’re G, D is your cousin on your dad's side and grandpa on mom's side. A is dad, sibs with B. B and C have D together, making D your cousin. D has F with E, who in turn has a child with A, making you.
+- In West Virginia, it's legal to marry your second-cousin, who shares ~1/32nd of your genes. Assuming it's the gene percent that matters, I think it’d be legal in West Virginia for A and F to marry if we added two more generations between D and F (I'm not showing my work, sry). D would be your great great grandparent and cousin.
