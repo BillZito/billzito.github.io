@@ -4,7 +4,7 @@
  <title>Bill Zito</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-10T17:02:52-07:00</updated>
+ <updated>2020-10-10T17:16:09-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -19,9 +19,11 @@
    <id>http://localhost:4000/2020/10/10/why-napkin-thoughts</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/IMG_4863.jpg&quot; alt=&quot;why napkin thoughts&quot; /&gt;&lt;/p&gt;
 
-&lt;ol&gt;
+&lt;ul&gt;
   &lt;li&gt;Want to discuss high-value ideas, but don’t want to spend time to polish them.&lt;/li&gt;
-&lt;/ol&gt;
+  &lt;li&gt;By getting faster feedback on core ideas, I can improve them faster / choose which to make better.&lt;/li&gt;
+  &lt;li&gt;Seems useful to spend more time building models vs. passively consuming content.&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
