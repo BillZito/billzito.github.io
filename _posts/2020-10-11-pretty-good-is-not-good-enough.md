@@ -12,6 +12,7 @@ People near the 75th percentile look at everyone else in their field and say "Lo
 
 If you have 10 friends, and they're all smart and thoughtful about how to have impact, they're probably somewhere between the median and the top. Let's just assume they're randomly distributed between the 50th percentile and the 100th percentile. Even though all 10 of those friends are working on useful things, and even though all 10 of them think they've thought through how to have the most impact, the top one of those friends is making something like 10-50x as much impact as the least impactful.
 
+[The below is worded too strongly and will be edited.]
 Now, there are important follow-up questions. Does intervention X (e.g. criminal justice, education) look like this? How do interventions in criminal justice compare to health? I'm not going into the details here, but the answer is yes, other fields look like this, and there's also a hierarchy between fields -- the most effective fields have multiples of impact compared to less effective ones.
 
 It's fairly straightforward to dig into the data and figure out if the above is true -- I think many effective altruists, including myself, strongly disagreed with this until we dug into the data ourselves. But if you do that, and you figure out this holds, it makes no sense to going back to doing "pretty good" things. 
