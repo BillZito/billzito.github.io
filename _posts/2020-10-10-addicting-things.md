@@ -9,11 +9,14 @@
 
 
 ## Substitutes for news/sports scores:
-- eat, drink
-- walk, juggle a soccer ball
-- text a friend
-- read better blog posts
-- [not good] book/podcast (too long a commitment / effortful)
+- Eat, drink.
+- Walk, juggle a soccer ball.
+- Text a friend.
+- Journal, doodle.
+- Read better blog posts.
+- Watch educational youtube.
+- Play with an educational app like [universe in a nutshell](https://shop-us.kurzgesagt.org/products/universe-in-a-nutshell-app).
+- [Not good] book/podcast (too long a commitment / effortful).
 
 
 ![habits](https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4869.JPG?raw=true)
