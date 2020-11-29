@@ -4,13 +4,33 @@
  <title>Bill Zito</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-16T22:38:52-07:00</updated>
+ <updated>2020-11-28T19:14:50-08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Educated</title>
+   <link href="http://localhost:4000/2020/11/28/educated"/>
+   <updated>2020-11-28T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2020/11/28/educated</id>
+   <content type="html">
+&lt;p&gt;&lt;strong&gt;Spoiler alert: going to talk abotu details of the book&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Educated is a really good book. Tara (the author) manages to tell the story as she experienced it without passing judgement on her family for things they did wrong, giving us a clearer view of the struggle to figure out what is “true” when living for decades in others’ distorted (and sometimes abusive) realities.&lt;/p&gt;
+
+&lt;p&gt;My biggest takeaways:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Especially when so many things that matter (family, livelihood, safety) are tied to our beliefs about the world, it can be very hard to figure out what is true. There is part of her (and part of me) that wants to believe fake realities we’ve been told, convenient stories. This helped me think more clearly about stories family members and I had once believed.&lt;/li&gt;
+  &lt;li&gt;Guilt is a very powerful weapon for abusers – abusers decrease others’ self-worth and use that to get what they want. Abusers are kind sometimes, and rationalize their abuse to make it reality, leaving the abused with an alternative reality. Abusers often have some sociopathic qualities. And then they use the fact that the abused are not sociopathic to mainpulate them into thinking they are in the wrong.&lt;/li&gt;
+  &lt;li&gt;When you have to be self-reliant to survive, have tried to trust your loved ones and they’ve repeatedly failed you, it’s hard to ask for help. “I can fix this” is dangerous – sometimes we need to ask for help, or to give up on fixing it. This helped me realize ways in which I was being unnecessarily self-reliant.&lt;/li&gt;
+  &lt;li&gt;So much of beliefs are mimetic – “this is what you say in x situation” – it takes conscious effort ot think about what one should say. It’s wild how many people never escape from the “reality” they are born into, and further wild that even those who do learn to believe other things still have trouble breaking free of cached beliefs and habits.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Pretty Good Is Not Good Enough</title>

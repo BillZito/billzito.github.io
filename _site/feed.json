@@ -13,6 +13,27 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/2020/11/28/educated",
+            "title": "Educated",
+            "summary": null,
+            "content_text": "Spoiler alert: going to talk abotu details of the bookEducated is a really good book. Tara (the author) manages to tell the story as she experienced it without passing judgement on her family for things they did wrong, giving us a clearer view of the struggle to figure out what is “true” when living for decades in others’ distorted (and sometimes abusive) realities.My biggest takeaways:  Especially when so many things that matter (family, livelihood, safety) are tied to our beliefs about the world, it can be very hard to figure out what is true. There is part of her (and part of me) that wants to believe fake realities we’ve been told, convenient stories. This helped me think more clearly about stories family members and I had once believed.  Guilt is a very powerful weapon for abusers – abusers decrease others’ self-worth and use that to get what they want. Abusers are kind sometimes, and rationalize their abuse to make it reality, leaving the abused with an alternative reality. Abusers often have some sociopathic qualities. And then they use the fact that the abused are not sociopathic to mainpulate them into thinking they are in the wrong.  When you have to be self-reliant to survive, have tried to trust your loved ones and they’ve repeatedly failed you, it’s hard to ask for help. “I can fix this” is dangerous – sometimes we need to ask for help, or to give up on fixing it. This helped me realize ways in which I was being unnecessarily self-reliant.  So much of beliefs are mimetic – “this is what you say in x situation” – it takes conscious effort ot think about what one should say. It’s wild how many people never escape from the “reality” they are born into, and further wild that even those who do learn to believe other things still have trouble breaking free of cached beliefs and habits.",
+            "content_html": "<p><strong>Spoiler alert: going to talk abotu details of the book</strong></p><p>Educated is a really good book. Tara (the author) manages to tell the story as she experienced it without passing judgement on her family for things they did wrong, giving us a clearer view of the struggle to figure out what is “true” when living for decades in others’ distorted (and sometimes abusive) realities.</p><p>My biggest takeaways:</p><ul>  <li>Especially when so many things that matter (family, livelihood, safety) are tied to our beliefs about the world, it can be very hard to figure out what is true. There is part of her (and part of me) that wants to believe fake realities we’ve been told, convenient stories. This helped me think more clearly about stories family members and I had once believed.</li>  <li>Guilt is a very powerful weapon for abusers – abusers decrease others’ self-worth and use that to get what they want. Abusers are kind sometimes, and rationalize their abuse to make it reality, leaving the abused with an alternative reality. Abusers often have some sociopathic qualities. And then they use the fact that the abused are not sociopathic to mainpulate them into thinking they are in the wrong.</li>  <li>When you have to be self-reliant to survive, have tried to trust your loved ones and they’ve repeatedly failed you, it’s hard to ask for help. “I can fix this” is dangerous – sometimes we need to ask for help, or to give up on fixing it. This helped me realize ways in which I was being unnecessarily self-reliant.</li>  <li>So much of beliefs are mimetic – “this is what you say in x situation” – it takes conscious effort ot think about what one should say. It’s wild how many people never escape from the “reality” they are born into, and further wild that even those who do learn to believe other things still have trouble breaking free of cached beliefs and habits.</li></ul>",
+            "url": "http://localhost:4000/2020/11/28/educated",
+            
+            
+            
+            
+            
+            "date_published": "2020-11-28T00:00:00-08:00",
+            "date_modified": "2020-11-28T00:00:00-08:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
             "id": "http://localhost:4000/2020/10/11/pretty-good-is-not-good-enough",
             "title": "Pretty Good Is Not Good Enough",
             "summary": null,
