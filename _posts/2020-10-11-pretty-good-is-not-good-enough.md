@@ -1,3 +1,5 @@
+Tldr; I think a lot of highly capable people think they’re spending enough time figuring out the highest impact ways to make a difference when they’re not. The difference in impact between being “in the top 50% of interventions” and “being in the top few percent of interventions” seems likely to be >10x (if not several orders of magnitude more).
+
 Most people who care about helping others follow a strategy that seems reasonable: find a field that you care about (e.g. criminal justice reform, education, public health, voting), try to find promising interventions in that field, and pursue those. I did this for many years. If interventions had similar orders of magnitude of impact, this would be a reasonable strategy. Unfortunately, I'm confident they do not.
 
 [The world’s biggest problems](https://80000hours.org/career-guide/world-problems/) by 80,000 hours lays out an introduction to this argument pretty well, but I'm going to take one of the charts they cite and then focus on taking the conclusion of top interventions mattering a lot more than pretty good interventions seriously.
@@ -25,5 +27,3 @@ There are important follow-up questions:
 3. Am I advocating we only work on a few top interventions? No. It's important to spread out our resources somewhat, and oftentimes people will have developed specialized skills or other personal fit that make them better at working on specific things. But I think it's still pretty clear that we can divert a lot of the 50-90+% of funding that we're wasting onto things that we think might actually help pepole. On the margin, I want to move people towards more impactful work-- I'm not arguing for some globally optimum algorithm for telling everyone exactly the 3 projects they should work on.
 
 4. If you've gotten this far, [common misconceptions about effective altruism](https://80000hours.org/2020/08/misconceptions-effective-altruism/#top) may also be of interest.
-
-I think a lot of highly capable people think they're spending enough time figuring out the highest impact interventions when they're not. The difference between being "one of the better interventions" and "being in the top few percent of interventions" seems likely to be >10x.
