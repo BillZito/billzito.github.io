@@ -1,6 +1,8 @@
 links:
-- title: Napkin
+- title: Posts
   url: /
+# - title: Napkin
+  # url: /napkin
 - title: About
   url: /about
 - title: Search
