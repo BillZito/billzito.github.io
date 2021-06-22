@@ -3,11 +3,9 @@ layout: page
 title: About
 ---
 
-Bill Zito is a human.
+COO/software engineer at Redwood Research. Early employee at Aurora ($10B self-driving car startup) — helped build out engineering and ops teams for ML labeling pipelines. I care about trying to do good (e.g. Effective Altruism) and live in Berkeley. 
 
-### Features
+Some [books I like](https://www.goodreads.com/review/list/107138592-bill-zito?shelf=five-stars&view=table).
 
-- I once taught my family's dog how to sing to the piano. He mostly sings a 5F#. I on the other hand am more usually asked not to sing.
-- I like people. If we've met, it's very likely that I like you.
-- I like [books](https://www.goodreads.com/review/list/107138592-bill-zito?order=d&ref=nav_mybooks&shelf=read&sort=rating).
-- I like getting things done (especially when they're good things).
+[Linkedin](https://www.linkedin.com/in/billzito/).
+[Facebook](https://www.facebook.com/billzito8/).
