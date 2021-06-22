@@ -8,4 +8,5 @@ COO/software engineer at Redwood Research. Early employee at Aurora ($10B self-d
 Some [books I like](https://www.goodreads.com/review/list/107138592-bill-zito?shelf=five-stars&view=table).
 
 [Linkedin](https://www.linkedin.com/in/billzito/).
+
 [Facebook](https://www.facebook.com/billzito8/).
