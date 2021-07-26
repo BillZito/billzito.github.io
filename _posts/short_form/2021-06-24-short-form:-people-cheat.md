@@ -1,9 +1,9 @@
-People cheat, across many domains, surprisingly often.
+People cheat, across many domains, surprisingly often to me.
 
 ## Academics
 * At Middlebury, [35% of 377 students](https://middleburycampus.com/30191/news/honor-identity-and-administration-the-forgotten-history-of-middleburys-honor-code/) self-reported an honor code violation in 2014, 97% of which were not punished.
 * Some other random links suggested similar numbers (and up to twice as high for colleges without honor codes).
-* It's interesting how some professors think cheating is very rare. I wonder how much of this is a selection effect (good students are less likely to cheat when undergrads),  vs. incentivizes for colleges to not research/publish stats on this (leading to people falsely assuming it's rare), vs. norms changing over time for cheating to be more acceptable (because more people are doing it / because school seems more like busy work that no one actually cares about).
+* It's interesting how some professors think cheating is very rare. I wonder how much of this is a selection effect (good students are less likely to cheat when undergrads),  vs. incentivizes for colleges to not research/publish stats on this (leading to people falsely assuming it's rare), vs. norms changing over time for cheating to be more acceptable (because more people are doing it / because school seems more like busy work that no one actually cares about), vs. something else.
 
 
 ## Sports
@@ -21,7 +21,7 @@ People cheat, across many domains, surprisingly often.
 * I'd bet a good amount of money that male sports with <1-5% of players getting caught have similar base rates compared to other sports, and just have bad testing regimes.
 * For example, [Soccer](https://en.wikipedia.org/wiki/Doping_in_association_football).
 * Icarus claimed the Russian world cup soccer team was doping. I don't think FIFA followed up on that. 
-* Documents suggest Real Madrid and Barcelona players (two of the most famous clubs) were doping, I think it was basically never followed up on http://autobus.cyclingnews.com/news.php?id=news/2006/dec06/dec08news
+* [Documents](http://autobus.cyclingnews.com/news.php?id=news/2006/dec06/dec08news) suggest Real Madrid and Barcelona players (two of the most famous clubs) were doping back in 2006, I think it was basically never followed up on.
 * When I googled NBA doping a while back, I found similar things as with the soccer searches (some players suggesting it was common, but no strong testing regime / not many players getting in trouble for it).
 
 ### Overall

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Bill Zito</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2021-06-27T00:35:55-07:00</updated>
- <id>http://localhost:4000</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2021-07-25T17:56:58-07:00</updated>
+ <id></id>
  <author>
    <name></name>
    <email></email>
@@ -14,16 +14,16 @@
  
  <entry>
    <title>Short Form: People Cheat</title>
-   <link href="http://localhost:4000/2021/06/24/short-form-people-cheat"/>
+   <link href="/2021/06/24/short-form-people-cheat"/>
    <updated>2021-06-24T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2021/06/24/short-form:-people-cheat</id>
-   <content type="html">&lt;p&gt;People cheat, across many domains, surprisingly often.&lt;/p&gt;
+   <id>/2021/06/24/short-form:-people-cheat</id>
+   <content type="html">&lt;p&gt;People cheat, across many domains, surprisingly often to me.&lt;/p&gt;
 
 &lt;h2 id=&quot;academics&quot;&gt;Academics&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;At Middlebury, &lt;a href=&quot;https://middleburycampus.com/30191/news/honor-identity-and-administration-the-forgotten-history-of-middleburys-honor-code/&quot;&gt;35% of 377 students&lt;/a&gt; self-reported an honor code violation in 2014, 97% of which were not punished.&lt;/li&gt;
   &lt;li&gt;Some other random links suggested similar numbers (and up to twice as high for colleges without honor codes).&lt;/li&gt;
-  &lt;li&gt;It’s interesting how some professors think cheating is very rare. I wonder how much of this is a selection effect (good students are less likely to cheat when undergrads),  vs. incentivizes for colleges to not research/publish stats on this (leading to people falsely assuming it’s rare), vs. norms changing over time for cheating to be more acceptable (because more people are doing it / because school seems more like busy work that no one actually cares about).&lt;/li&gt;
+  &lt;li&gt;It’s interesting how some professors think cheating is very rare. I wonder how much of this is a selection effect (good students are less likely to cheat when undergrads),  vs. incentivizes for colleges to not research/publish stats on this (leading to people falsely assuming it’s rare), vs. norms changing over time for cheating to be more acceptable (because more people are doing it / because school seems more like busy work that no one actually cares about), vs. something else.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;sports&quot;&gt;Sports&lt;/h2&gt;
@@ -44,7 +44,68 @@
   &lt;li&gt;I’d bet a good amount of money that male sports with &amp;lt;1-5% of players getting caught have similar base rates compared to other sports, and just have bad testing regimes.&lt;/li&gt;
   &lt;li&gt;For example, &lt;a href=&quot;https://en.wikipedia.org/wiki/Doping_in_association_football&quot;&gt;Soccer&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;Icarus claimed the Russian world cup soccer team was doping. I don’t think FIFA followed up on that.&lt;/li&gt;
-  &lt;li&gt;Documents suggest Real Madrid and Barcelona players (two of the most famous clubs) were doping, I think it was basically never followed up on http://autobus.cyclingnews.com/news.php?id=news/2006/dec06/dec08news&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://autobus.cyclingnews.com/news.php?id=news/2006/dec06/dec08news&quot;&gt;Documents&lt;/a&gt; suggest Real Madrid and Barcelona players (two of the most famous clubs) were doping back in 2006, I think it was basically never followed up on.&lt;/li&gt;
+  &lt;li&gt;When I googled NBA doping a while back, I found similar things as with the soccer searches (some players suggesting it was common, but no strong testing regime / not many players getting in trouble for it).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;overall&quot;&gt;Overall&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;I’m guessing the base-rate for professional male sports is something like 20-70% (median 40%), and maybe 2-5x lower for female sports (median 15%).&lt;/li&gt;
+  &lt;li&gt;If you’re a male sport and the rate of players you catch is below 1-5%, and you don’t have intense testing policies / have never had a public scandal, it seems likely you just aren’t doing good testing and are in the 20-70% regime.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;more-things-to-cheat-on&quot;&gt;More things to cheat on&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Cheating on spouses: &lt;a href=&quot;https://divorce.lovetoknow.com/Rates_of_Divorce_for_Adultery_and_Infidelity&quot;&gt;a random link from a google search&lt;/a&gt; suggested 20% of married men admitted cheating and 13% of women.&lt;/li&gt;
+  &lt;li&gt;Evading taxes.&lt;/li&gt;
+  &lt;li&gt;Other crimes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;general-thoughts&quot;&gt;General thoughts&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Is there a good name for the effect “sometimes when test numbers are very low, the true number is way higher than you think, because that suggests your tests are very bad?” In addition to the examples above, figuring out accurate estimates for how many people were infected with covid at the start of the pandemic was made tricky by a similar effect, where one had to guess at how many people were being tested, and many people incorrectly focused just on the raw testing numbers.&lt;/li&gt;
+  &lt;li&gt;It’s interesting to think about the base rate for willingness to do unethical things, and also how different things affect willingness to cheat (benefit, cost via chance of getting caught).&lt;/li&gt;
+  &lt;li&gt;Someone’s maybe done this already, but it seems like it’d be pretty easy to make a quantitative model of how likely there is to be a tragedy-of-the-commons type failure mode given x actors, y % benefit, and z % chance of getting caught.&lt;/li&gt;
+  &lt;li&gt;Lots of problems in capitalism look like “well, there are a bunch of actors, and definitely a few of them are going to cheat in that way that is hard to catch, so I guess all the competitive ones have to now.”&lt;/li&gt;
+  &lt;li&gt;It’s always mind-boggling to me when people like A-rod or Trump seem to not care at all about the truth.&lt;/li&gt;
+  &lt;li&gt;Oftentimes it seems like the only way to get a regulating agency to actually do good testing is to create a public scandal, by e.g. publishing the details of just how many people brazenly cheat on a thing.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Short Form: People Cheat</title>
+   <link href="/2021/06/24/short-form-people-cheat"/>
+   <updated>2021-06-24T00:00:00-07:00</updated>
+   <id>/2021/06/24/short-form:-people-cheat</id>
+   <content type="html">&lt;p&gt;People cheat, across many domains, surprisingly often to me.&lt;/p&gt;
+
+&lt;h2 id=&quot;academics&quot;&gt;Academics&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;At Middlebury, &lt;a href=&quot;https://middleburycampus.com/30191/news/honor-identity-and-administration-the-forgotten-history-of-middleburys-honor-code/&quot;&gt;35% of 377 students&lt;/a&gt; self-reported an honor code violation in 2014, 97% of which were not punished.&lt;/li&gt;
+  &lt;li&gt;Some other random links suggested similar numbers (and up to twice as high for colleges without honor codes).&lt;/li&gt;
+  &lt;li&gt;It’s interesting how some professors think cheating is very rare. I wonder how much of this is a selection effect (good students are less likely to cheat when undergrads),  vs. incentivizes for colleges to not research/publish stats on this (leading to people falsely assuming it’s rare), vs. norms changing over time for cheating to be more acceptable (because more people are doing it / because school seems more like busy work that no one actually cares about), vs. something else.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sports&quot;&gt;Sports&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;I highly recommend the movie &lt;a href=&quot;https://www.netflix.com/title/80168079&quot;&gt;Icarus&lt;/a&gt;. [Spoiler alert: Russia doped (took performance-enhancing drugs) for the 2014 olympics across sports, and it appears to be surprisingly easy to get away with doping.]&lt;/li&gt;
+  &lt;li&gt;Lance Armstrong got away with doping for a long time, and it sounds like cyclicsts were very into it as a collective.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;baseball&quot;&gt;Baseball&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_players_suspended_for_performance-enhancing_drugs&quot;&gt;MLB went from 0 cases –&amp;gt; many&lt;/a&gt; when they actually started a good testing regime.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.netflix.com/title/81047680&quot;&gt;Screwball&lt;/a&gt; is an entertaining documentary on a quasi-doctor who helped MLB players get steroids (and also high-schoolers / anyone that asked for them…).&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Alex_Rodriguez#Use_of_performance-enhancing_drugs&quot;&gt;A-rod&lt;/a&gt; claimed he never doped, got caught doping, then claimed he was clean, then got caught again, then continued to claim he didn’t take drugs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;male-sports-with-very-few-cases&quot;&gt;Male sports with very few cases&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;I’d bet a good amount of money that male sports with &amp;lt;1-5% of players getting caught have similar base rates compared to other sports, and just have bad testing regimes.&lt;/li&gt;
+  &lt;li&gt;For example, &lt;a href=&quot;https://en.wikipedia.org/wiki/Doping_in_association_football&quot;&gt;Soccer&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Icarus claimed the Russian world cup soccer team was doping. I don’t think FIFA followed up on that.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://autobus.cyclingnews.com/news.php?id=news/2006/dec06/dec08news&quot;&gt;Documents&lt;/a&gt; suggest Real Madrid and Barcelona players (two of the most famous clubs) were doping back in 2006, I think it was basically never followed up on.&lt;/li&gt;
   &lt;li&gt;When I googled NBA doping a while back, I found similar things as with the soccer searches (some players suggesting it was common, but no strong testing regime / not many players getting in trouble for it).&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -75,9 +136,9 @@
  
  <entry>
    <title>Just A Bitting</title>
-   <link href="http://localhost:4000/2021/03/14/just-a-bitting"/>
+   <link href="/2021/03/14/just-a-bitting"/>
    <updated>2021-03-14T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2021/03/14/just-a-bitting</id>
+   <id>/2021/03/14/just-a-bitting</id>
    <content type="html">&lt;p&gt;When I start doing something, knowing that once I start, it’ll be hard to stop, I call that “just-a-bitting” myself. I, like everyone, do this to myself surprisingly frequently without noticing it. Common examples of just-a-bitting that people express some misgivings about are watching Netflix, reading Hackernews / your favorite way to browse the internet, playing video games, and eating cookies. But you can also just-a-bit yourself with lots of other things. Once I get in a good writing flow, I don’t want to stop. It’s the same for programming and for soccer.&lt;/p&gt;
 
 &lt;p&gt;As those last examples suggest, it can actually be a very positive thing to just-a-bit myself. One of the best ways to get into a new hobby or career interest is to &lt;a href=&quot;https://dcgross.com/falling-in-love/&quot;&gt;fall&lt;/a&gt; in &lt;a href=&quot;http://www.paulgraham.com/love.html&quot;&gt;love&lt;/a&gt; with the thing you’re learning to do. You can think of the task as: how do I design an activity, such that when I start, I am intrinsically motivated to keep going. Repeatedly just-a-bitting yourself is a core component of this.&lt;/p&gt;
@@ -102,9 +163,9 @@
  
  <entry>
    <title>Reflection Prompts</title>
-   <link href="http://localhost:4000/2020/12/31/reflection-prompts"/>
+   <link href="/2020/12/31/reflection-prompts"/>
    <updated>2020-12-31T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2020/12/31/reflection-prompts</id>
+   <id>/2020/12/31/reflection-prompts</id>
    <content type="html">&lt;p&gt;Some reflection prompts I’ve used in the past.&lt;/p&gt;
 
 &lt;h2 id=&quot;weekly&quot;&gt;Weekly&lt;/h2&gt;
@@ -143,9 +204,38 @@
  
  <entry>
    <title>Short Form: Enchiridion</title>
-   <link href="http://localhost:4000/2020/11/29/short-form-enchiridion"/>
+   <link href="/2020/11/29/short-form-enchiridion"/>
    <updated>2020-11-29T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2020/11/29/short-form:-enchiridion</id>
+   <id>/2020/11/29/short-form:-enchiridion</id>
+   <content type="html">
+&lt;p&gt;&lt;a href=&quot;http://classics.mit.edu/Epictetus/epicench.html&quot;&gt;The Enchiridion by Epictetus&lt;/a&gt;, 135AC lays out some useful frames on how to live, especially for managing one’s emotions. Epictetus was a philosopher of &lt;a href=&quot;https://en.wikipedia.org/wiki/Stoicism&quot;&gt;stoicism&lt;/a&gt; (I knew nothing about stoicism before reading The Enchiridion). If you read numbers 1 - 10 (of 50), that’s maybe 60% of the value for 20m of effort. H/t to A for the recommendation. As always, other’s hot-takes appreciated.&lt;/p&gt;
+
+&lt;p&gt;My takeaways:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;One main idea is to only care about things in your control (your actions and feelings about events) instead of things out of your control (other’s actions, reputation, circumstances of your e.g. body and family). While this seems obvious as stated, the details of actually taking this serious are useful. Reputation is one interesting example. It feels like something we can control (by being awesome), but by focusing only on the actions (the being awesome) and not other’s beliefs, it can free us from unproductive worrying. Similarly, envy towards others is less productive than thinking about actions one wants to take. There’s an underlying theme in much of the work of trying to not care at all about other’s beliefs, which although hard to do in practice, seems useful to consider doing more of.&lt;/li&gt;
+  &lt;li&gt;I also liked thinking about what it’d be like to not care about other’s decisions. I have some strong beliefs about how people should pursue their lives, and I sometimes let myself worry about if my friends and loved ones are making all the decisions that I want them to. While it seems good to try to convince friends of things sometimes, I think it’s healthy to stay focused on “shooting one’s best shot” in trying to convince them, and then not worrying as much about the result. As with most “sales,” the first rule of sales is that deals fall through, and you have to learn to not get upset about that.&lt;/li&gt;
+  &lt;li&gt;I liked the analogy of living life as if you were at a dinner party, esepcially the bit about not stretching for things that have not come yet. I have lots of goals in life, and so it’s easy for me to spend a bunch of cycles worrying about accomplishing those goals. I think it’s healthier to internalize realisitic time frames of when things will get done by, and to not spend too much time yearning for things that realistically can’t be accomplished very quickly.&lt;/li&gt;
+  &lt;li&gt;Another useful thing that I’m going to try: thinking about what you want out of an environment to focus on keeping those things even if you get disrupted. E.g. when I go to sit at my desk to work, I want to be in a state of flow/ focused work, and sometimes when I’m tired or get interrupted, I end up being distracted for a long time. Focusing on the goal of the environment seems plausibly useful to do more of the good.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More rapid fire:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Stay focused on the ship even during side quests, else you’ll get swept up in them. Useful to keep as many cycles on the most important things as possible.&lt;/li&gt;
+  &lt;li&gt;“I have returned it” is a powerful frame on loss – the mistake people make is that they take the people and things they have in their life for granted, whereas “I have returned it” makes the fleeting nature more clear. This made me think about my grandma’s memoir, which says a lot of similar things that were really useful for me in thinking about “loss.” In particular, I like framing the overwhelming emotion of loss as “thank you for those great experiences” than “sad that I don’t get them anymore.”&lt;/li&gt;
+  &lt;li&gt;Be wary of “If I neglect my affairs, I will have no income” —&amp;gt; better to give it up and not be concerned. It’s easy to let us make excuses about the things we “have to do,” but it can be liberating to not force ourselves to do those things, and to take bigger risks for bigger rewards.&lt;/li&gt;
+  &lt;li&gt;“You have your role, act it.” I believe in my own potential to do things, but I also have to be honest with myself about what I’m good at so that I can best accomplish my goals.&lt;/li&gt;
+  &lt;li&gt;“Don’t hand mind to others.” Esepcially when I’m angry, I “hand my mind to others” in that I let myself get carried away in thinking about them. I like that frame for trying not to spend as much time worrying about disputes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Overall: I definitely recommend reading, and it’s a quick read (although sometimes hard to parse). I think there is a lot of good “mental jijitsu” in how to reframe problems to not let them take up unproductive cycles.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Short Form: Enchiridion</title>
+   <link href="/2020/11/29/short-form-enchiridion"/>
+   <updated>2020-11-29T00:00:00-08:00</updated>
+   <id>/2020/11/29/short-form:-enchiridion</id>
    <content type="html">
 &lt;p&gt;&lt;a href=&quot;http://classics.mit.edu/Epictetus/epicench.html&quot;&gt;The Enchiridion by Epictetus&lt;/a&gt;, 135AC lays out some useful frames on how to live, especially for managing one’s emotions. Epictetus was a philosopher of &lt;a href=&quot;https://en.wikipedia.org/wiki/Stoicism&quot;&gt;stoicism&lt;/a&gt; (I knew nothing about stoicism before reading The Enchiridion). If you read numbers 1 - 10 (of 50), that’s maybe 60% of the value for 20m of effort. H/t to A for the recommendation. As always, other’s hot-takes appreciated.&lt;/p&gt;
 
@@ -172,9 +262,31 @@
  
  <entry>
    <title>Short Form: Educated</title>
-   <link href="http://localhost:4000/2020/11/28/short-form-educated"/>
+   <link href="/2020/11/28/short-form-educated"/>
    <updated>2020-11-28T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2020/11/28/short-form:-educated</id>
+   <id>/2020/11/28/short-form:-educated</id>
+   <content type="html">
+&lt;p&gt;&lt;strong&gt;Spoiler alert: going to talk about details of the book&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501&quot;&gt;Educated&lt;/a&gt; is a really good book. Tara (the author) manages to tell the story as she experienced it without passing judgement on her family for things they did wrong, giving us a clearer view of the struggle to figure out what is “true” when living for decades in others’ distorted (and sometimes abusive) realities. I’m interested in other’s hot-takes, and if you haven’t read it yet, take this as a pitch!&lt;/p&gt;
+
+&lt;p&gt;My takeaways:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Especially when so many things that matter (family, livelihood, safety) are tied to our beliefs about the world, it can be very, very hard to figure out what is true. There is part of her (and part of me) that wants to believe fake realities we’ve been told, and it took many years for both of us to step further away from those.&lt;/li&gt;
+  &lt;li&gt;Guilt is a very powerful weapon for abusers – abusers decrease others’ self-worth and use that to get what they want. Abusers are kind sometimes, and rationalize their abuse to make it reality, leaving the abused with an alternative reality. Abusers often have some sociopathic qualities. And then they use the fact that the abused are not sociopathic to mainpulate them into thinking they are in the wrong.&lt;/li&gt;
+  &lt;li&gt;One of the hardest things in figuring out how to deal with abusive people is that they seem to believe what they are saying, and can convincingly explain their side of the story without the years of first-hand experience to understand their patterns. It seems likely that many abusive people actually do believe their distorted stories – that lying to oneself and then being “honest” to others is common, maybe because humans have norms that it’s not ok to purposefully deceive people but that it is ok to be “mistaken” about what actually happened.&lt;/li&gt;
+  &lt;li&gt;When you have to be self-reliant to survive, have tried to trust your loved ones and they’ve repeatedly failed you, it’s hard to ask for help. “I can fix this” is dangerous – sometimes we need to ask for help. Also, sometimes it’s better to decide not to abandon the problem altogether. This helped me realize ways in which I was being unnecessarily self-reliant.&lt;/li&gt;
+  &lt;li&gt;So much of beliefs are based on what we’ve seen happen in similiar situations – it takes conscious effort to think about what one should say instead of the brain’s auto-fill function. It’s wild how many people never escape from the “reality” they are born into, and further wild that even those who do learn to believe other things still have trouble breaking free of cached beliefs and habits.&lt;/li&gt;
+  &lt;li&gt;The book helped me develop more empathy for Trump supporters and other people that seem to live in different realities than I do. When everyone around you believes a version of events that is very believable without a bunch of effort to learn other things, and when there are strong incentives to believe what others believe to fit in, have a family, job, etc., it’s very hard to break free.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Short Form: Educated</title>
+   <link href="/2020/11/28/short-form-educated"/>
+   <updated>2020-11-28T00:00:00-08:00</updated>
+   <id>/2020/11/28/short-form:-educated</id>
    <content type="html">
 &lt;p&gt;&lt;strong&gt;Spoiler alert: going to talk about details of the book&lt;/strong&gt;&lt;/p&gt;
 
@@ -194,9 +306,9 @@
  
  <entry>
    <title>Short Form: Deep Work Vs Entertainment</title>
-   <link href="http://localhost:4000/2020/10/10/short-form-deep-work-vs-entertainment"/>
+   <link href="/2020/10/10/short-form-deep-work-vs-entertainment"/>
    <updated>2020-10-10T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/10/10/short-form:-deep-work-vs-entertainment</id>
+   <id>/2020/10/10/short-form:-deep-work-vs-entertainment</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4847.jpg?raw=true&quot; alt=&quot;value&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -218,9 +330,72 @@
  
  <entry>
    <title>Short Form: Addicting Things</title>
-   <link href="http://localhost:4000/2020/10/10/short-form-addicting-things"/>
+   <link href="/2020/10/10/short-form-addicting-things"/>
    <updated>2020-10-10T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/10/10/short-form:-addicting-things</id>
+   <id>/2020/10/10/short-form:-addicting-things</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4866.JPG?raw=true&quot; alt=&quot;addictingness&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I think people vary a good amount for all these things.&lt;/li&gt;
+  &lt;li&gt;I didn’t have a great measure for addictingness. Another option I thought about was (# of times I would do the thing vs. # I wanted to do).&lt;/li&gt;
+  &lt;li&gt;A lot of the badness for me of addicting things is that they make me feel like I’m not in control of my actions. I hate feeling like I can’t choose to eat less if I don’t want to.&lt;/li&gt;
+  &lt;li&gt;I think facebook/twitter are slightly more addicting and slightly worse than news/sports scores.&lt;/li&gt;
+  &lt;li&gt;I’ve never done cocaine, but my average estimate for it was -2 on the life satisfaction score, while my average for dessert was about -0.5. So for me, dessert addiction feels roughly 0.1x - 0.5x as bad. I like my new framing of “deca-cocaines” for me to quantify just how addicting these things are (e.g. 0.1x-0.5x is 1-5 deca-cocaines).&lt;/li&gt;
+  &lt;li&gt;My dad used to work for a candy company, and they’d optimize their recipe by bringing in people, giving them free giant bowls of candy, and seeing which recipes led to people eating the most. I think people underestimate how aggressively companies have optimized on making things as addicting as possible (food, facebook, etc.).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;substitutes-for-newssports-scores&quot;&gt;Substitutes for news/sports scores:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Eat, drink.&lt;/li&gt;
+  &lt;li&gt;Walk, juggle a soccer ball.&lt;/li&gt;
+  &lt;li&gt;Text a friend.&lt;/li&gt;
+  &lt;li&gt;Journal, doodle.&lt;/li&gt;
+  &lt;li&gt;Read better blog posts.&lt;/li&gt;
+  &lt;li&gt;Watch educational youtube.&lt;/li&gt;
+  &lt;li&gt;Play with an educational app like &lt;a href=&quot;https://shop-us.kurzgesagt.org/products/universe-in-a-nutshell-app&quot;&gt;universe in a nutshell&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;[Not good] book/podcast (too long a commitment / effortful).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4869.JPG?raw=true&quot; alt=&quot;habits&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For me, if I have a policy of only doing something rarely (never - once/month), I basically never think about doing it. But as soon as I get up to once/week, and especially at once/day or above, the number of times I think about it starts increasingly rapidly.&lt;/li&gt;
+  &lt;li&gt;I’ve experimented the most with this with dessert. At once/day - 3 times/day, it won’t feel bad for days - months, but then one day I’ll be stressed or tired and binge and feel bad about myself. I did a couple years where I only ate dessert roughly once/year, and have been doing roughly once/month for the last year, and found that I don’t binge at all like that. People ask me “how do you have so much willpower to eat dessert so rarely!?” I say: what!? If I had willpower I’d eat it 3 times a day — it’s specifically because of my lack of willpower that the policy “roughly once a month” works wonders for me.&lt;/li&gt;
+  &lt;li&gt;I know of a handful of other people that have experiemnted with similar things and found the “rarely” option liberating, but again I expect there to be large individual variation.&lt;/li&gt;
+  &lt;li&gt;I think the body positivity movement does at least one very good thing and one questionable thing. The very good thing is that for people who feel bad about food, it helps them feel less bad about it. The questionable thing is that I feel pretty confident that for me, the “leave dessert in your house and don’t feel bad eating it every day!” thing would be counterproductive because it would lead to me thinking about dessert and binging on it much more frequently. And again, I expect this to differ by person, and am not judging you if you feel differently. As a wise person once said “some people want to eat more, some people want to eat less, and lots of people want to think about eating less.”&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Short Form: Deep Work Vs Entertainment</title>
+   <link href="/2020/10/10/short-form-deep-work-vs-entertainment"/>
+   <updated>2020-10-10T00:00:00-07:00</updated>
+   <id>/2020/10/10/short-form:-deep-work-vs-entertainment</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4847.jpg?raw=true&quot; alt=&quot;value&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Info gain (new ideas * value/hour) on y axis, easiness (number hours without needing a break, a proxy for effort needed) on x axis.&lt;/li&gt;
+  &lt;li&gt;Shapes aren’t correct (e.g. covariance).&lt;/li&gt;
+  &lt;li&gt;I’ve frequently made efforts to cut news and sports highlights out of my life as they’ve felt low value per time. I had never quantified it before though — it was useful to think about how much better a good book or conversation was. This also helped me realize that sometimes I’m trying to use a poor substitue for news/sports scores — oftentimes I want a very low-effort, small commitment break, and something like a book is too long a commitment. See &lt;a href=&quot;https://www.billzito.com/2020/10/10/addicting-things&quot;&gt;addicting things&lt;/a&gt; for what I think are better substitutes.&lt;/li&gt;
+  &lt;li&gt;It feels like almost everyone, even people who feel similarly to me, and definitely including me, spend too much time in the entertainment bucket relative to its value. Part of this is that those things have been optimized for being addicting (see above link for more).&lt;/li&gt;
+  &lt;li&gt;I was also surprised by how much more valuable I thought high quality deep work was vs. reading a good book / having a great conversation. This made me think that I should try harder to protect deep work time, and read at night when I have less willpower but don’t need as much.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4848.jpg?raw=true&quot; alt=&quot;multipliers&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Effort” isn’t one thing / should be broken into many things.&lt;/li&gt;
+  &lt;li&gt;Interesting how much worse I feel at 4h of sleep vs. 6h. I perceive myself to be ~2x worse at info gain and to need ~2x more effort.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Short Form: Addicting Things</title>
+   <link href="/2020/10/10/short-form-addicting-things"/>
+   <updated>2020-10-10T00:00:00-07:00</updated>
+   <id>/2020/10/10/short-form:-addicting-things</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4866.JPG?raw=true&quot; alt=&quot;addictingness&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -257,9 +432,9 @@
  
  <entry>
    <title>Valuing Relationships Over Decisions</title>
-   <link href="http://localhost:4000/2020/07/06/valuing-relationships-over-decisions"/>
+   <link href="/2020/07/06/valuing-relationships-over-decisions"/>
    <updated>2020-07-06T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/07/06/valuing-relationships-over-decisions</id>
+   <id>/2020/07/06/valuing-relationships-over-decisions</id>
    <content type="html">&lt;p&gt;Let’s say your team is debating Plan A and Plan B, and Plan A is not only clearly wrong to you, but it’s indicative of some of your coworker’s weaknesses. You feel pretty strongly about Plan B, and it’s important to your team’s success, so you push hard for Plan B. Somehow, despite Plan A’s clear weaknesses, your coworker doubles down on Plan A, and the disagreement is seeming to stretch out longer and longer and get more and more personal.&lt;/p&gt;
 
 &lt;p&gt;It’s easy to get too focused on making the right object-level decision and miss the more important thing: relationships with your coworkers are more important than decisions. A company is a long-term investment in each other. You are trusting each other to come to the generally-right solution quickly, and to develop the skills as individuals and as a group to do that. When a disagreement drags on too long, you’re implicitly saying that the individual decision is more important than the investment in your coworker.&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
@@ -276,9 +451,9 @@
  
  <entry>
    <title>Advice I'd Give 15 Year Old Me</title>
-   <link href="http://localhost:4000/2019/11/30/advice-i-d-give-15-year-old-me"/>
+   <link href="/2019/11/30/advice-i-d-give-15-year-old-me"/>
    <updated>2019-11-30T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2019/11/30/advice-i'd-give-15-year-old-me</id>
+   <id>/2019/11/30/advice-i'd-give-15-year-old-me</id>
    <content type="html">&lt;p&gt;Two things I’d try to convince 15 year old me about are exploring better and doing harder things.&lt;/p&gt;
 
 &lt;h2 id=&quot;exploring-better&quot;&gt;Exploring better&lt;/h2&gt;
