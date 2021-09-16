@@ -16,8 +16,8 @@
             "id": "http://localhost:4000/2021/07/01/short-form-books-i-recommend-from-the-last-year",
             "title": "Short Form: Books I Recommend From The Last Year",
             "summary": null,
-            "content_text": "Some books I liked from the last year.Books from 2021For ~130 (as of July 2021) of the books that I’d recommend checking out, see this goodreads list.",
-            "content_html": "<p>Some books I liked from the last year.<a href=\"https://github.com/BillZito/billzito.github.io/blob/master/assets/books_2021.png?raw=true\">Books from 2021</a></p><p>For ~130 (as of July 2021) of the books that I’d recommend checking out, see this <a href=\"https://www.goodreads.com/review/list/107138592-bill-zito?utf8=%E2%9C%93&amp;order=d&amp;shelf=recommendable&amp;sort=date_added&amp;utf8=%E2%9C%93&amp;title=bill-zito&amp;per_page=infinite#\">goodreads list</a>.</p>",
+            "content_text": "Some books I liked from the last year.For ~130 (as of July 2021) of the books that I’d recommend checking out, see this goodreads list.",
+            "content_html": "<p>Some books I liked from the last year.<img src=\"https://github.com/BillZito/billzito.github.io/blob/master/assets/books_2021.png?raw=true\" alt=\"Books from 2021\" /></p><p>For ~130 (as of July 2021) of the books that I’d recommend checking out, see this <a href=\"https://www.goodreads.com/review/list/107138592-bill-zito?utf8=%E2%9C%93&amp;order=d&amp;shelf=recommendable&amp;sort=date_added&amp;utf8=%E2%9C%93&amp;title=bill-zito&amp;per_page=infinite#\">goodreads list</a>.</p>",
             "url": "http://localhost:4000/2021/07/01/short-form-books-i-recommend-from-the-last-year",
             
             
