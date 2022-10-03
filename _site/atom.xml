@@ -4,7 +4,7 @@
  <title>Bill Zito</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-10-10T13:18:54-04:00</updated>
+ <updated>2022-10-03T04:46:00-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -15,7 +15,7 @@
  <entry>
    <title>Early Career Eas Should Consider Fast Growing Startups In Emerging Technologies</title>
    <link href="http://localhost:4000/2021/10/10/early-career-eas-should-consider-fast-growing-startups-in-emerging-technologies"/>
-   <updated>2021-10-10T00:00:00-04:00</updated>
+   <updated>2021-10-10T00:00:00-07:00</updated>
    <id>http://localhost:4000/2021/10/10/early-career-EAs-should-consider-fast-growing-startups-in-emerging-technologies</id>
    <content type="html">&lt;p&gt;Some early career EAs are able to find good direct work, but there aren’t enough opportunities for all the promising early career people. Another option that I don’t think gets considered enough is to work at a fast-growing startup in an emerging technology (e.g. robotics or NLP), where one can often have much faster skill development within a couple of years. By fast-growing startup, I mean a company that seems decently likely to be one of the top ~20 highest valued startups founded in a given 5 year period.&lt;/p&gt;
 
@@ -34,7 +34,7 @@
  <entry>
    <title>Short Form: Books I Recommend From The Last Year</title>
    <link href="http://localhost:4000/2021/07/01/short-form-books-i-recommend-from-the-last-year"/>
-   <updated>2021-07-01T00:00:00-04:00</updated>
+   <updated>2021-07-01T00:00:00-07:00</updated>
    <id>http://localhost:4000/2021/07/01/short-form:-books-I-recommend-from-the-last-year</id>
    <content type="html">&lt;p&gt;Some books I liked from the last year.
 &lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/books_2021.png?raw=true&quot; alt=&quot;Books from 2021&quot; /&gt;&lt;/p&gt;
@@ -46,7 +46,7 @@
  <entry>
    <title>Short Form: People Cheat</title>
    <link href="http://localhost:4000/2021/06/24/short-form-people-cheat"/>
-   <updated>2021-06-24T00:00:00-04:00</updated>
+   <updated>2021-06-24T00:00:00-07:00</updated>
    <id>http://localhost:4000/2021/06/24/short-form:-people-cheat</id>
    <content type="html">&lt;p&gt;People cheat, across many domains, surprisingly often to me.&lt;/p&gt;
 
@@ -107,7 +107,7 @@
  <entry>
    <title>Just A Bitting</title>
    <link href="http://localhost:4000/2021/03/14/just-a-bitting"/>
-   <updated>2021-03-14T00:00:00-05:00</updated>
+   <updated>2021-03-14T00:00:00-08:00</updated>
    <id>http://localhost:4000/2021/03/14/just-a-bitting</id>
    <content type="html">&lt;p&gt;When I start doing something, knowing that once I start, it’ll be hard to stop, I call that “just-a-bitting” myself. I, like everyone, do this to myself surprisingly frequently without noticing it. Common examples of just-a-bitting that people express some misgivings about are watching Netflix, reading Hackernews / your favorite way to browse the internet, playing video games, and eating cookies. But you can also just-a-bit yourself with lots of other things. Once I get in a good writing flow, I don’t want to stop. It’s the same for programming and for soccer.&lt;/p&gt;
 
@@ -134,7 +134,7 @@
  <entry>
    <title>Reflection Prompts</title>
    <link href="http://localhost:4000/2020/12/31/reflection-prompts"/>
-   <updated>2020-12-31T00:00:00-05:00</updated>
+   <updated>2020-12-31T00:00:00-08:00</updated>
    <id>http://localhost:4000/2020/12/31/reflection-prompts</id>
    <content type="html">&lt;p&gt;Some reflection prompts I’ve used in the past.&lt;/p&gt;
 
@@ -175,7 +175,7 @@
  <entry>
    <title>Short Form: Enchiridion</title>
    <link href="http://localhost:4000/2020/11/29/short-form-enchiridion"/>
-   <updated>2020-11-29T00:00:00-05:00</updated>
+   <updated>2020-11-29T00:00:00-08:00</updated>
    <id>http://localhost:4000/2020/11/29/short-form:-enchiridion</id>
    <content type="html">
 &lt;p&gt;&lt;a href=&quot;http://classics.mit.edu/Epictetus/epicench.html&quot;&gt;The Enchiridion by Epictetus&lt;/a&gt;, 135AC lays out some useful frames on how to live, especially for managing one’s emotions. Epictetus was a philosopher of &lt;a href=&quot;https://en.wikipedia.org/wiki/Stoicism&quot;&gt;stoicism&lt;/a&gt; (I knew nothing about stoicism before reading The Enchiridion). If you read numbers 1 - 10 (of 50), that’s maybe 60% of the value for 20m of effort. H/t to A for the recommendation. As always, other’s hot-takes appreciated.&lt;/p&gt;
@@ -204,7 +204,7 @@
  <entry>
    <title>Short Form: Educated</title>
    <link href="http://localhost:4000/2020/11/28/short-form-educated"/>
-   <updated>2020-11-28T00:00:00-05:00</updated>
+   <updated>2020-11-28T00:00:00-08:00</updated>
    <id>http://localhost:4000/2020/11/28/short-form:-educated</id>
    <content type="html">
 &lt;p&gt;&lt;strong&gt;Spoiler alert: going to talk about details of the book&lt;/strong&gt;&lt;/p&gt;
@@ -226,7 +226,7 @@
  <entry>
    <title>Short Form: Deep Work Vs Entertainment</title>
    <link href="http://localhost:4000/2020/10/10/short-form-deep-work-vs-entertainment"/>
-   <updated>2020-10-10T00:00:00-04:00</updated>
+   <updated>2020-10-10T00:00:00-07:00</updated>
    <id>http://localhost:4000/2020/10/10/short-form:-deep-work-vs-entertainment</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4847.jpg?raw=true&quot; alt=&quot;value&quot; /&gt;&lt;/p&gt;
 
@@ -250,7 +250,7 @@
  <entry>
    <title>Short Form: Addicting Things</title>
    <link href="http://localhost:4000/2020/10/10/short-form-addicting-things"/>
-   <updated>2020-10-10T00:00:00-04:00</updated>
+   <updated>2020-10-10T00:00:00-07:00</updated>
    <id>http://localhost:4000/2020/10/10/short-form:-addicting-things</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/IMG_4866.JPG?raw=true&quot; alt=&quot;addictingness&quot; /&gt;&lt;/p&gt;
 
@@ -289,7 +289,7 @@
  <entry>
    <title>Short Form: Books I Recommend</title>
    <link href="http://localhost:4000/2020/09/16/short-form-books-i-recommend"/>
-   <updated>2020-09-16T00:00:00-04:00</updated>
+   <updated>2020-09-16T00:00:00-07:00</updated>
    <id>http://localhost:4000/2020/09/16/short-form:-books-I-recommend</id>
    <content type="html">&lt;p&gt;Some books I’ve rated 5 stars.
 &lt;a href=&quot;https://github.com/BillZito/billzito.github.io/blob/master/assets/books_2020.png?raw=true&quot;&gt;Books from 2020&lt;/a&gt;&lt;/p&gt;
@@ -301,7 +301,7 @@
  <entry>
    <title>Valuing Relationships Over Decisions</title>
    <link href="http://localhost:4000/2020/07/06/valuing-relationships-over-decisions"/>
-   <updated>2020-07-06T00:00:00-04:00</updated>
+   <updated>2020-07-06T00:00:00-07:00</updated>
    <id>http://localhost:4000/2020/07/06/valuing-relationships-over-decisions</id>
    <content type="html">&lt;p&gt;Let’s say your team is debating Plan A and Plan B, and Plan A is not only clearly wrong to you, but it’s indicative of some of your coworker’s weaknesses. You feel pretty strongly about Plan B, and it’s important to your team’s success, so you push hard for Plan B. Somehow, despite Plan A’s clear weaknesses, your coworker doubles down on Plan A, and the disagreement is seeming to stretch out longer and longer and get more and more personal.&lt;/p&gt;
 
@@ -320,7 +320,7 @@
  <entry>
    <title>Advice I'd Give 15 Year Old Me</title>
    <link href="http://localhost:4000/2019/11/30/advice-i-d-give-15-year-old-me"/>
-   <updated>2019-11-30T00:00:00-05:00</updated>
+   <updated>2019-11-30T00:00:00-08:00</updated>
    <id>http://localhost:4000/2019/11/30/advice-i'd-give-15-year-old-me</id>
    <content type="html">&lt;p&gt;Two things I’d try to convince 15 year old me about are exploring better and doing harder things.&lt;/p&gt;
 
