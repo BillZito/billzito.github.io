@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="https://github.com/BillZito/billzito.github.io/blob/master/assets/bill_goto_headshot.jpg?raw=true" alt="drawing" width="233" height="250"/>
+<img src="https://github.com/BillZito/billzito.github.io/blob/master/assets/bill_goto_headshot.jpg?raw=true" alt="drawing" width="284" height="300"/>
 
 Co-Founder and COO at Redwood Research. We do exploratory AI alignment research to try to reduce the chance of [existential risk](https://en.wikipedia.org/wiki/Global_catastrophic_risk). I wear several hats there, including running the coworking space Constellation, supporting management and project management of technical teams, and helping align people on our organizational priorities.
 
