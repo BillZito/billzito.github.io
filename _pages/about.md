@@ -5,11 +5,9 @@ title: About
 
 <img src="https://github.com/BillZito/billzito.github.io/blob/master/assets/bill_goto_headshot.jpg?raw=true" alt="drawing" width="236.5" height="250"/>
 
-Co-Founder and COO at Redwood Research. We do exploratory AI alignment research to try to reduce the chance of existential risk. I wear several hats there, including running the coworking space Constellation, supporting management and project management of technical teams, and helping align people on org priorities.
+I help run Constellation, a research institute working to prevent AI takeover and safeguard the future. We convene about 100 people a week working on alignment research, evals, and policy. I also helped start and was COO at Redwood Research, which does exploratory AI alignment research. Before that, I was a software engineer working on self-driving cars.
 
-Before Redwood, I was a software engineer at Aurora, a self-driving car startup, as it grew from 30 to 300. In particular, I helped build out engineering and operations teams for their ML labeling pipelines.
-
-Outside of work, I play soccer, partake in mischief in many forms, enjoy reading a lot, and occasionally write [poems](https://drive.google.com/drive/u/1/folders/1g5lRuVwO-L4RgQp0yHDHV6qtOnWH6sLN). Some content I like: [ books](https://www.goodreads.com/review/list/107138592-bill-zito?shelf=five-stars&view=table), [movies/shows/podcasts](https://twitter.com/billzito1/status/1519903268863832067), and 	[poems](https://drive.google.com/drive/u/1/folders/1OmXlI-vnVMzEVq2plDkbz6YRgGyy8lnq).
+Outside of work, I play soccer, create small amounts of chaos, read, and occasionally write [poems](https://drive.google.com/drive/u/1/folders/1g5lRuVwO-L4RgQp0yHDHV6qtOnWH6sLN). Some content I like: [ books](https://www.goodreads.com/review/list/107138592-bill-zito?shelf=five-stars&view=table), [movies/shows/podcasts](https://twitter.com/billzito1/status/1519903268863832067), and 	[poems](https://drive.google.com/drive/u/1/folders/1OmXlI-vnVMzEVq2plDkbz6YRgGyy8lnq).
 
 
 ## Links
