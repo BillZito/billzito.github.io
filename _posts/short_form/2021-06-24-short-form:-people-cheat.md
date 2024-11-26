@@ -40,5 +40,5 @@ People cheat, across many domains, surprisingly often to me.
 * It's interesting to think about the base rate for willingness to do unethical things, and also how different things affect willingness to cheat (benefit, cost via chance of getting caught).
 * Someone's maybe done this already, but it seems like it'd be pretty easy to make a quantitative model of how likely there is to be a tragedy-of-the-commons type failure mode given x actors, y % benefit, and z % chance of getting caught.
 * Lots of problems in capitalism look like "well, there are a bunch of actors, and definitely a few of them are going to cheat in that way that is hard to catch, so I guess all the competitive ones have to now."
-* It's always mind-boggling to me when people like A-rod or Trump seem to not care at all about the truth.
+* It's always mind-boggling to me when people like A-rod seem to not care at all about the truth.
 * Oftentimes it seems like the only way to get a regulating agency to actually do good testing is to create a public scandal, by e.g. publishing the details of just how many people brazenly cheat on a thing.
